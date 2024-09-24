@@ -1,4 +1,4 @@
-package com.lear.supplychain_monitor.models;
+package com.inventory.supplychain_monitor.models;
 
 import jakarta.persistence.*;
 import lombok.Getter;

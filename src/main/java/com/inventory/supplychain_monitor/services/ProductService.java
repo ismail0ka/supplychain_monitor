@@ -1,6 +1,6 @@
-package com.lear.supplychain_monitor.services;
+package com.inventory.supplychain_monitor.services;
 
-import com.lear.supplychain_monitor.repositories.ProductRepository;
+import com.inventory.supplychain_monitor.repositories.ProductRepository;
 import lombok.AllArgsConstructor;
 import lombok.NoArgsConstructor;
 import org.springframework.stereotype.Service;

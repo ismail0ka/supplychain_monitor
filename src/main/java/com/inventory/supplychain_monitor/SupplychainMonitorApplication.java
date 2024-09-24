@@ -1,4 +1,4 @@
-package com.lear.supplychain_monitor;
+package com.inventory.supplychain_monitor;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
